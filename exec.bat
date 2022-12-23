@@ -1,0 +1,1 @@
+docker exec -w /home/dns -it dns bash

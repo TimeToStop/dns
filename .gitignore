@@ -1,0 +1,10 @@
+client
+server
+Makefile
+CMakeLists.txt
+.clang-format
+.gitlab-ci.yml
+
+
+.idea/
+.vscode/
